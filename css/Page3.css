@@ -1,0 +1,32 @@
+article.informacion {
+    margin: 2em;
+    text-align: justify;
+}
+
+div.cerebro {
+    display: flex;
+    justify-content: center;
+}
+
+div.offcanvas-body ul li {
+    padding-bottom: 1em;
+    margin-right: 0.5em;
+}
+
+h4 {
+    cursor: pointer;
+    margin-right: 1em;
+}
+
+div.offcanvas-body {
+    background-color: rgba(128, 128, 128, 0.288);
+}
+
+h6 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.371);
+}
