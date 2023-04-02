@@ -1,0 +1,20 @@
+div.informacion {
+    margin: 2em;
+    text-align: justify;
+}
+
+
+ol li {
+    font-weight: bold;
+}
+
+ul.texto li {
+    padding-top: 1em;
+}
+
+div.imagenes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2em;
+}
